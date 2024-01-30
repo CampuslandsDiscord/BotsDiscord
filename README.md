@@ -14,6 +14,10 @@ pip install discord.py
 
 ```
 
+```bash
+pip install asyncio
+```
+
 Con la libreria ya descargada solo nos queda empezar a escribir el codigo que se usara para darle vida al bot
 
 Pero antes que nada es necesesario tener una cuenta de discord
