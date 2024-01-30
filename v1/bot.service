@@ -1,0 +1,13 @@
+[Unit]
+Description=My Script Service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /ruta/al/script.py
+WorkingDirectory=/ruta/al/directorio/del/script
+Restart=always
+User=usuario
+Group=grupo
+
+[Install]
+WantedBy=multi-user.target
