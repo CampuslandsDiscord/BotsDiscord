@@ -216,7 +216,7 @@ y con eso nos deberia de salir el siguiente mensaje en la terminal
 y eso seria todo 
 ## SOPORTE
 
-Para mas soporte puede escribir al correo owdrydev@gmail.com
+Para mas soporte puede escribir al correo soporte@owellandry.xyz
 
 
 ## CODIGO COMPLETO
