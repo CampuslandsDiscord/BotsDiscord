@@ -1,5 +1,3 @@
-# BOT DISCORD CAMPUSLANDS
-
 Para este bot de discord se vioeron las necesidades que habian en el servidor
 en este caso la necesidad que habia era que los usuario al entrar al canal de voz si no compartian su pantalla se sacarian del canal de voz
 
